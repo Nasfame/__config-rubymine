@@ -1,0 +1,10 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" channel="fixed" rolling="false" use="true" version="9.4.1212" />
+    </driver>
+    <driver id="redshift">
+      <artifact id="Redshift" name="Redshift" use="true" version="2.1.0.1" />
+    </driver>
+  </component>
+</application>
